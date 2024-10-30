@@ -15,8 +15,8 @@ Cada certificado está armazenado em uma pasta correspondente ao tema ou tecnolo
 
 ## Contato
 Para mais informações sobre minha jornada e experiência, ou para conversar sobre possíveis colaborações, fique à vontade para entrar em contato:
-- GitHub: [Lucas Bandão]([https://github.com/seuusuario](https://github.com/lucasIPO))
-- LinkedIn: [Seu Perfil]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/lucasbrandãoipo/))
+- GitHub: ([https://github.com/seuusuario](https://github.com/lucasIPO))
+- LinkedIn: ([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/lucasbrandãoipo/))
 - Email: lucas.gabriel.brandao@outlook.com
 
 Agradeço pela visita!
